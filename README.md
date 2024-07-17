@@ -15,5 +15,7 @@ You can click the Preview link to take a look at your changes.
  
  ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
-
+# visitor count
 ![Visitor Count](https://profile-counter.glitch.me/{MrXCQ}/count.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXCQ)](https://github.com/anuraghazra/github-readme-stats)
