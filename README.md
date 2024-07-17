@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
  ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/{MrXCQ}/count.svg)
